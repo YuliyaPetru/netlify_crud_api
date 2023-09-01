@@ -5,7 +5,7 @@ This is a RESTful API designed to perform basic CRUD (Create, Read, Update, Dele
 ### Getting Started
 
 ```bash
-git clone https://github.com/your-repo/inventory-api.git
+git clone https://github.com/YuliyaPetru/netlify_crud_api
 cd inventory-api
 npm install
 ```
