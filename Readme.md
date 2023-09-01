@@ -17,7 +17,7 @@ FAUNA_SECRET="your_fauna_secret_key"
 
 You must have Netlify CLI installed to test this locally. To install Netlify CLI run the following: 
 ```bash
-
+npm install -g netlify-cli
 ```
 
 To run the functions locally run the following command
